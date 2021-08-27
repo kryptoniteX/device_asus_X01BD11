@@ -15,6 +15,10 @@ $(call inherit-product, vendor/aosp/config/common_full_phone.mk)
 # Boot Animation
 TARGET_BOOT_ANIMATION_RES := 1080
 
+#HYCON Flags
+HYCON_MAINTAINER := Puneet Gautam
+HYCON_BUILD_TYPE=OFFICIAL
+
 # Inherit from X01BD device
 $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
