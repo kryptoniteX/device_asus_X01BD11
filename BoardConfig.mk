@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2021 The Hycon OS Project
+# Copyright (C) 2021 The EvolutionX Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
